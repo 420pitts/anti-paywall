@@ -46,6 +46,7 @@ const websites = [
 	  "*://*.quora.com/*",
 	  "*://*.scmp.com/*",
 	  "*://*.seattletimes.com/*",
+	  "*://*.seekingalpha.com/*",
 	  "*://*.slashdot.org/*",
 	  "*://*.smh.com.au/*",
 	  "*://*.sun-sentinel.com/*",
@@ -59,7 +60,6 @@ const websites = [
 	  "*://*.washingtonpost.com/*",
 	  "*://*.wsj.com/*",
 	  "*://*.wsj.net/*"
-	  "*://*.seekingalpha.com/*",
 ]
 
 const cookies = ([
