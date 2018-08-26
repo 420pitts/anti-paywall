@@ -1,7 +1,7 @@
 const websites = [
 	  "*://*.adelaidenow.com.au/*",
 	  "*://*.baltimoresun.com/*",
-	  "*://*.barrons.com/*",
+//	  "*://*.barrons.com/*",
 	  "*://*.chicagobusiness.com/*",
 	  "*://*.chicagotribune.com/*",
 	  "*://*.chip.de/*",
@@ -12,7 +12,7 @@ const websites = [
 	  "*://*.dailypress.com/*",
 	  "*://*.dailytelegraph.com.au/*",
 	  "*://*.durangoherald.com/*",
-	  "*://*.economist.com/*",
+//	  "*://*.economist.com/*",
 	  "*://*.fd.nl/*",
 	  "*://*.forbes.com/*",
 	  "*://*.ft.com/*",
