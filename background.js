@@ -46,7 +46,7 @@ const websites = [
 	  "*://*.quora.com/*",
 	  "*://*.scmp.com/*",
 	  "*://*.seattletimes.com/*",
-	  "*://*.seekingalpha.com/*",
+//	  "*://*.seekingalpha.com/*",
 	  "*://*.slashdot.org/*",
 	  "*://*.smh.com.au/*",
 	  "*://*.sun-sentinel.com/*",
@@ -116,7 +116,6 @@ function evadePaywalls(details) {
 
 	return {requestHeaders: reqHeaders};
 }
-
 function blockCookies(details) {
 	var responseHeaders = details.responseHeaders.filter(function(header) {
 		if (header.name === "Cookie") {
