@@ -59,6 +59,7 @@ const websites = [
 	  "*://*.washingtonpost.com/*",
 	  "*://*.wsj.com/*",
 	  "*://*.wsj.net/*"
+	  "*://*.seekingalpha.com/*",
 ]
 
 const cookies = ([
